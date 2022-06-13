@@ -1,0 +1,58 @@
+body {
+ color: #f8f8f8;
+ background-color:#232323;
+}
+
+.navigacija {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background-color: #f8f8f8;
+}
+
+.logo {
+ flex: 1;
+ padding-left: 46px;
+ color: #f8f8f8;
+}
+
+.a {
+ text-decoration: none;
+ color: #232323;
+}
+
+#h2 {
+ color: #232323;
+}
+
+.meni {
+ flex: 1;
+}
+
+.meni ul {
+ display: flex;
+ list-style-type: none;
+ justify-content: center;
+ align-items: center;
+}
+
+.meni ul li {
+ padding: 16px 14px;
+}
+
+.omeni{
+ padding-top: 160px;
+ text-align: center;
+}
+
+.h2{
+ font-size: 48px;
+}
+
+h3{
+ font-size: 36px;
+}
+
+h4{
+ font-size: 32px;
+}
